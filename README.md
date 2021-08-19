@@ -4,6 +4,7 @@ Aim
 In this experiment, I designed a simple 3D racing game.
 
 - I designed a 3D terrain using Unity's terrain tools.
+- C# was used.
 - I built some roads on this land.
 - I made some buildings to make the terrain more realistic.
 - I used some 3D tool assets to generate traffic.
