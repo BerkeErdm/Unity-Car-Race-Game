@@ -3,11 +3,11 @@
 Aim
 In this experiment, I designed a simple 3D racing game.
 
-- I designed a 3D terrain using Unity's terrain tools.
-- C# was used.
-- I built some roads on this land.
-- I made some buildings to make the terrain more realistic.
-- I used some 3D tool assets to generate traffic.
+- A 3D terrain was designed using Unity's terrain tools.
+- The software design was developed with C#.
+- Added road design to the game's interface.
+- Some buildings, social facilities, parks, and similar structures have been added to make the game's interface more realistic.
+- Used some 3D vehicle assets to generate traffic.
 - AI-made cars can travel at a constant speed on a fixed path.
 - Added third-party camera tracking.
 - Players reach the finish line in a certain time.
